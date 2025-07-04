@@ -48,7 +48,7 @@ python# 1. CHANGE KEYWORDS HERE:
 keywords = ["Student", "University", "College"]
 ```
 
-**3) Start Scraping
+**3) Start Scraping**
 1. Open 'start_py_scraper -v2.bat', change the location where you put 'sharing_scraper_version.py'. After you done it, save it.
 
 2. click the 'start_py_scraper -v2.bat' file and run.
